@@ -25,5 +25,5 @@ print(arr)
 
 print(arr.index(3)) # this will return the index of first occurance of the value
 
-arr.reverse()
-print(arr) # this will return the reverse of array
+arr.reverse()       # this will return the reverse of array
+print(arr) 
