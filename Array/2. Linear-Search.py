@@ -20,3 +20,7 @@ if(l!=-1):
     print(f"Searched avlue is at {l} position in the array")
 else:
     print("Element not found")
+
+# Best case time Complexity: O(1)
+# Worst case time Complexity: O(N)
+# Average case time Complexity: O(N)
