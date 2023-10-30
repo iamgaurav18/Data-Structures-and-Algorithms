@@ -14,3 +14,5 @@ a=SelectionSort(a)
 print(a)
 
 # In selection sort in every iteration we try to find the next smallest or largest number and place it next to sorted array(alreay found numbers)
+
+# Time complexity : O(N^2)
