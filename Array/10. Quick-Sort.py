@@ -1,3 +1,4 @@
+#Quick Sort 
 def partition(array, low, high):    
     pivot = array[high]                                 # Choose the rightmost element as pivot    
     i = low - 1                                         # Pointer for greater element 
