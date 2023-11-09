@@ -1,3 +1,4 @@
+#Merge Sort
 import array
 
 def MergeSort(arr):
