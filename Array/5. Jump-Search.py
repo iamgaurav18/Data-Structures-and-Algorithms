@@ -1,3 +1,4 @@
+#Jump Search 
 #THis approach also requires the array to be sorted. in this approach we will skip a fixed number of elemnts and compare the upccoming value with the key element, untill we find the element or and element greater than this element. if the element we jumped to is greater than then we will perform linear short from last jumped element to current element.
 
 import array
