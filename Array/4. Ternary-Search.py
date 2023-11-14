@@ -1,4 +1,5 @@
 # This approach is similar to Binary search except here instead of one mid we have two mids. here we are dividing the array in three parts instead of two
+# Ternary Search
 import array
 
 def TernarySearch(arr,l,r,k):
